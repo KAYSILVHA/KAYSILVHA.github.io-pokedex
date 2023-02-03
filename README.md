@@ -26,6 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Vamos capturar pokemons? Esse projeto mostra diversos pokemons em uma pokedéx, onde você pode pesquisar e vizualizar o seu pokemon predileto 
+Vamos capturar Pokemons? Esse projeto mostra diversos pokemons em uma pokedéx, onde você pode pesquisar e vizualizar o seu pokemon predileto 
 
 - [Visite o projeto online](https://kaysilvha.github.io/pokedex/)
