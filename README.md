@@ -6,8 +6,7 @@ Para os apaixonados por Pokemon. Um projeto simples, visando a prática das tecn
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
   
 </p>
 
